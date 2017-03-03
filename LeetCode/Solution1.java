@@ -1,5 +1,7 @@
+//LeetCode
+//1. Two Sum
 public class Solution1 {
-	//Subline Run
+	//Sublime Run
 	public static void main(String args[])
 	{
 		int nums[]={1,2,3,4,5};
