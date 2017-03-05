@@ -1,2 +1,2 @@
 # LeetCodebyJava
-每天写一题
+one solution a day
