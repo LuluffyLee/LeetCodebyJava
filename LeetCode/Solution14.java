@@ -1,5 +1,5 @@
 //LeetCode
-//20. Valid Parentheses
+//14. Longest Common Prefix
 import java.util.*;
 
 public class Solution14{
